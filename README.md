@@ -2,7 +2,7 @@
 
 ## Electrical Engineer - Full-stack Builder
 
-I build practical software at the intersection of electrical engineering, full-stack product development, AI systems, and cloud deployment. My current work is focused on turning ideas into working products: career navigation tools, trend discovery apps, web studio platforms, AI-assisted workflows, and deployable cloud-backed applications.
+I build practical software at the intersection of electrical engineering, full-stack product development, AI systems, and cloud deployment. My current work is focused on turning ideas into working products: AI-assisted developer tools, trend discovery apps, web studio platforms, automation workflows, and deployable cloud-backed applications.
 
 I am learning in public, building project-first, and using each repo to sharpen how I design, ship, test, and operate real software.
 
@@ -37,7 +37,7 @@ Welcome to the README mini-game. Pick a path, check the quest, then jump to the 
 
 **Featured proof:**
 
-- [CareerOS](#featured-projects) - career navigation platform.
+- [Codex-Digital](#featured-projects) - AI-assisted developer workflow platform.
 - [Bula Club](#featured-projects) - web studio, services, domains, support, and project request platform.
 
 **Status:** Learning deeply through real projects.
@@ -53,8 +53,8 @@ Welcome to the README mini-game. Pick a path, check the quest, then jump to the 
 
 **Featured proof:**
 
-- CareerOS uses AI-ready routes and transparent career reasoning.
 - Codex-Digital and siteops-style work explore AI-assisted developer workflows.
+- Project work focuses on transparent AI outputs that can be inspected, tested, and improved.
 
 **Status:** Comfortable and actively expanding.
 
@@ -109,13 +109,13 @@ Welcome to the README mini-game. Pick a path, check the quest, then jump to the 
 
 ## Featured Projects
 
-### CareerOS
+### Codex-Digital
 
-CareerOS is a career navigation platform focused on direction, evidence, and explainable career movement. It includes candidate and employer workflows, trajectory-style UX, backend-ready Convex structure, and AI-ready routes for guided career reasoning.
+Codex-Digital is an AI-assisted developer workflow project focused on agents, tools, testing, automation, and practical software delivery. It explores how coding workflows can be made more structured, verifiable, and useful across planning, implementation, review, and local execution.
 
-**Stack signals:** Next.js, React, TypeScript, Tailwind CSS, Convex, AI-ready APIs, Vercel-oriented deployment.
+**Stack signals:** Python, AI agents, tool orchestration, pytest, API workflows, VS Code extension concepts, Docker-oriented tooling.
 
-**What it shows:** Product thinking, full-stack architecture, career-tech workflows, and AI-assisted navigation.
+**What it shows:** AI workflow design, developer tooling, testing discipline, automation, and systems thinking.
 
 ### TrendPulse
 
@@ -189,7 +189,7 @@ Engineering systems Circuits -> Networks -> Storage -> Linux -> Security tooling
 3. Build the smallest useful version.
 4. Connect data, APIs, AI, and deployment early.
 5. Verify with tests, smoke checks, and honest documentation.
-6. Improve the system through each project.
+6. Improve the system through iteration.
 ```
 
 ---
